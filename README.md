@@ -19,7 +19,7 @@ It features a neon UI design, smooth animations, ripple effects, and full keyboa
 
 ## 🚀 Demo Preview
 
-![Preview](./public//screenshots//calc.png)
+![Preview](./calculator/public/screenshots/calc.png)
 
 ---
 
